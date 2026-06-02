@@ -1,0 +1,6 @@
+{
+  "name": "Harborstone Realty Group",
+  "description": "Austin TX Real Estate | Harborstone Realty Group - Premium real estate services in Austin, Round Rock, Cedar Park, Pflugerville, and Georgetown.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
